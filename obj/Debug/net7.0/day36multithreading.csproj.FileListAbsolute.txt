@@ -1,0 +1,15 @@
+/home/arivusurya/dailyAssingment/day36multithreading/bin/Debug/net7.0/day36multithreading
+/home/arivusurya/dailyAssingment/day36multithreading/bin/Debug/net7.0/day36multithreading.deps.json
+/home/arivusurya/dailyAssingment/day36multithreading/bin/Debug/net7.0/day36multithreading.runtimeconfig.json
+/home/arivusurya/dailyAssingment/day36multithreading/bin/Debug/net7.0/day36multithreading.dll
+/home/arivusurya/dailyAssingment/day36multithreading/bin/Debug/net7.0/day36multithreading.pdb
+/home/arivusurya/dailyAssingment/day36multithreading/obj/Debug/net7.0/day36multithreading.csproj.AssemblyReference.cache
+/home/arivusurya/dailyAssingment/day36multithreading/obj/Debug/net7.0/day36multithreading.GeneratedMSBuildEditorConfig.editorconfig
+/home/arivusurya/dailyAssingment/day36multithreading/obj/Debug/net7.0/day36multithreading.AssemblyInfoInputs.cache
+/home/arivusurya/dailyAssingment/day36multithreading/obj/Debug/net7.0/day36multithreading.AssemblyInfo.cs
+/home/arivusurya/dailyAssingment/day36multithreading/obj/Debug/net7.0/day36multithreading.csproj.CoreCompileInputs.cache
+/home/arivusurya/dailyAssingment/day36multithreading/obj/Debug/net7.0/day36multithreading.dll
+/home/arivusurya/dailyAssingment/day36multithreading/obj/Debug/net7.0/refint/day36multithreading.dll
+/home/arivusurya/dailyAssingment/day36multithreading/obj/Debug/net7.0/day36multithreading.pdb
+/home/arivusurya/dailyAssingment/day36multithreading/obj/Debug/net7.0/day36multithreading.genruntimeconfig.cache
+/home/arivusurya/dailyAssingment/day36multithreading/obj/Debug/net7.0/ref/day36multithreading.dll
